@@ -1,0 +1,7 @@
+---
+- !ruby/object:Butterfly
+  color: red
+  wing_size: 10
+- !ruby/object:Butterfly
+  color: blue
+  wing_size: 5
